@@ -25,6 +25,7 @@ class patient:
     def update(X, id_no):
         if id_no != '' :
             X.patid = id_no
+            X.flg = 1
         else:
             l1, ln, lp, ld = [], [], [], []
             for i in range(2, k.max_row + 1):
@@ -47,5 +48,28 @@ class patient:
             
 Y = patient()
 Y.update(f.readline())
+
+if Y.flg == 1:
+    l1 = []
+    for i in range(2, k.max_row + 1):
+        l1.append(int(k.cell(row = i, column = 1).value))
+    
+    j = l1.index(Y.patid) + 1
+    k.cell(row = j, column = 1).value = Y.patid
+    k.cell(row = j, column = 2).value = Y.name
+    k.cell(row = j, column = 3).value = Y.ph
+    k.cell(row = j, column = 4).value = Y.bloodgr
+    k.cell(row = i, column = 1).value = Y.dob
+    k.cell(row = i, column = 1).value = Y.gender
+
+else:
+    k.cell(row = k.max_row + 1, column = 1).value = Y.patid
+    k.cell(row = k.max_row + 1, column = 1).value = Y.name
+    k.cell(row = k.max_row + 1, column = 1).value = Y.ph
+    k.cell(row = k.max_row + 1, column = 1).value = Y.bloodgr
+    k.cell(row = k.max_row + 1, column = 1).value = Y.dob
+    k.cell(row = k.max_row + 1, column = 1).value = Y.gender
+    
+wb_obj.save("HEALTHDATA.xlsx");
 
 f.close();

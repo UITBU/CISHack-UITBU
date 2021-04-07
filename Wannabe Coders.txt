@@ -1,0 +1,35 @@
+Hello, This is our first hackathon from our entire team
+Till now we haven't yet started on our project,
+
+The Idea is in the Wannabe Coders.pptx file, so I kindly request you to go through it.
+
+so here are some basic details from our team members;
+
+Team Name: Wannabe Coders
+Team Members: Vivek Roushan, Shaksham Budhadev, Sohom Chowdhury, Subhranil Mondal
+
+Team wise information:
+
+Name: Vivek Roushan
+Roll No: 20203007
+Email_id: vivekroushan32@gmail.com
+Branch: IT
+Year: 1st
+
+Name: Shaksham Budhadev
+Roll No: 20203009
+Email_id: sakshamshaurya70557@gmail.com
+Branch: IT
+Year: 1st
+
+Name: Sohom Chowdhury
+Roll No: 20203008
+Email_id: sitsmesohom@gmail.com
+Branch: IT
+Year: 1st
+
+Name: Subhranil Mondal
+Roll No: 20203027
+Email_id: cyanbrush.art@gmail.com
+Branch: IT
+Year: 1st

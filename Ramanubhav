@@ -1,0 +1,26 @@
+Description :
+				We intend to develop a web portal as a Patient Centered Information Exchange System for Hospitals
+				which will allow them to easily upload various information related to patients which only the
+				patient can access and view at any time.
+				It will reduce the need of the patient to visit the Hospital every time to get an update. It will
+				act as an effective way of communication between the Healthcare providers and the Patients. It 
+				will maintain the privacy of the individuals as  the information shared can only be viewed by 
+				the parties directly involved.
+
+
+Contents of Project Directory : 
+
+						In progress...
+
+
+To Host the Project on your local machine :
+
+			Step I : 
+				Clone this repository by command :: $ git clone [HTTPS ADDRESS] 
+				The HTTPS is the address of the repository
+
+			Step II :
+				run $ npm install in client and server both folder to install all dependencies
+
+			Step III :
+				run server and client using $npm start at both folder's path.

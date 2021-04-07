@@ -1,3 +1,3 @@
 Frontend protype developed by Amrit Dhandharia
 by using
-HTML and CSS has been used
+HTML and CSS

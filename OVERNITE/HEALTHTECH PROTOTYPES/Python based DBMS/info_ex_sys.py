@@ -59,16 +59,16 @@ if Y.flg == 1:
     k.cell(row = j, column = 2).value = Y.name
     k.cell(row = j, column = 3).value = Y.ph
     k.cell(row = j, column = 4).value = Y.bloodgr
-    k.cell(row = i, column = 1).value = Y.dob
-    k.cell(row = i, column = 1).value = Y.gender
+    k.cell(row = i, column = 5).value = Y.dob
+    k.cell(row = i, column = 6).value = Y.gender
 
 else:
     k.cell(row = k.max_row + 1, column = 1).value = Y.patid
-    k.cell(row = k.max_row + 1, column = 1).value = Y.name
-    k.cell(row = k.max_row + 1, column = 1).value = Y.ph
-    k.cell(row = k.max_row + 1, column = 1).value = Y.bloodgr
-    k.cell(row = k.max_row + 1, column = 1).value = Y.dob
-    k.cell(row = k.max_row + 1, column = 1).value = Y.gender
+    k.cell(row = k.max_row + 1, column = 2).value = Y.name
+    k.cell(row = k.max_row + 1, column = 3).value = Y.ph
+    k.cell(row = k.max_row + 1, column = 4).value = Y.bloodgr
+    k.cell(row = k.max_row + 1, column = 5).value = Y.dob
+    k.cell(row = k.max_row + 1, column = 6).value = Y.gender
     
 wb_obj.save("HEALTHDATA.xlsx");
 

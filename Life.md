@@ -18,17 +18,20 @@ This app does the following:
 3. **Health articles** - Stay updated on latest healthcare news and get daily advice on living healthy.
 4. **Friendly chatbot** - Chat with your chatbot friend to resolve queries, find doctors and get health tips.
 
-# Future Scope
-
-Some features which we have though of implementing in the near future...
-
-1. **Health record** - to keep every persons health record stored in an encrypted form so that information is transferred between patients and doctors.
-2. **Patient’s lounge** - here you will be able to meet patients like you, chat with them and share your problems.
-3. **Pill reminder** - so that you may never miss a pill.
-
 # Version
 
 v1.1 (in prototype development)
+
+# Installation
+
+For your ease, we have included the original apk of the product so that you may simply download it and install...
+
+1. Head over to the project repo
+2. Clone the entire project into your smartphone
+3. Head to the Executable folder
+4. Install the "Life" app (You may have to override some system warning)
+5. Follow the intuitive UI
+6. Enjoy!
 
 # Directory tree
 
@@ -72,17 +75,6 @@ DoctorAppointment-master<br/>
 
 </pre>
 
-# Installation
-
-For your ease, we have included the original apk of the product so that you may simply download it and install...
-
-1. Head over to the project repo
-2. Clone the entire project into your smartphone
-3. Head to the Executable folder
-4. Install the "Life" app (You may have to override some system warning)
-5. Follow the intuitive UI
-6. Enjoy!
-
 # Example Screenshots
 
 Opening Screen
@@ -91,3 +83,11 @@ Opening Screen
 # Project Status
 
 In Development mode
+
+# Future Scope
+
+Some features which we have though of implementing in the near future...
+
+1. **Health record** - to keep every persons health record stored in an encrypted form so that information is transferred between patients and doctors.
+2. **Patient’s lounge** - here you will be able to meet patients like you, chat with them and share your problems.
+3. **Pill reminder** - so that you may never miss a pill.

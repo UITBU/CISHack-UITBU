@@ -32,52 +32,53 @@ v1.1 (in prototype development)
 
 # Directory tree
 
-DoctorAppointment-master
-    ├───.idea
-    ├───app
-    │   └───src
-    │       ├───androidTest
-    │       │   └───java
-    │       │       └───com
-    │       │           └───blogspot
-    │       │               └───priyabratanaskar
-    │       │                   └───firebaselogin
-    │       ├───main
-    │       │   ├───java
-    │       │   │   └───com
-    │       │   │       └───blogspot
-    │       │   │           └───priyabratanaskar
-    │       │   │               └───firebaselogin
-    │       │   └───res
-    │       │       ├───drawable
-    │       │       ├───drawable-v24
-    │       │       ├───layout
-    │       │       ├───menu
-    │       │       ├───mipmap-anydpi-v26
-    │       │       ├───mipmap-hdpi
-    │       │       ├───mipmap-mdpi
-    │       │       ├───mipmap-xhdpi
-    │       │       ├───mipmap-xxhdpi
-    │       │       ├───mipmap-xxxhdpi
-    │       │       └───values
-    │       └───test
-    │           └───java
-    │               └───com
-    │                   └───blogspot
-    │                       └───priyabratanaskar
-    │                           └───firebaselogin
-    └───gradle
-        └───wrapper
+DoctorAppointment-master<br/>
+    ├───.idea<br/>
+    ├───app<br/>
+    │   └───src<br/>
+    │       ├───androidTest<br/>
+    │       │   └───java<br/>
+    │       │       └───com<br/>
+    │       │           └───blogspot<br/>
+    │       │               └───priyabratanaskar<br/>
+    │       │                   └───firebaselogin<br/>
+    │       ├───main<br/>
+    │       │   ├───java<br/>
+    │       │   │   └───com<br/>
+    │       │   │       └───blogspot<br/>
+    │       │   │           └───priyabratanaskar<br/>
+    │       │   │               └───firebaselogin<br/>
+    │       │   └───res<br/>
+    │       │       ├───drawable<br/>
+    │       │       ├───drawable-v24<br/>
+    │       │       ├───layout<br/>
+    │       │       ├───menu<br/>
+    │       │       ├───mipmap-anydpi-v26<br/>
+    │       │       ├───mipmap-hdpi<br/>
+    │       │       ├───mipmap-mdpi<br/>
+    │       │       ├───mipmap-xhdpi<br/>
+    │       │       ├───mipmap-xxhdpi<br/>
+    │       │       ├───mipmap-xxxhdpi<br/>
+    │       │       └───values<br/>
+    │       └───test<br/>
+    │           └───java<br/>
+    │               └───com<br/>
+    │                   └───blogspot<br/>
+    │                       └───priyabratanaskar<br/>
+    │                           └───firebaselogin<br/>
+    └───gradle<br/>
+        └───wrapper<br/>
 
 # Installation
+
 For your ease, we have included the original apk of the product so that you may simply download it and install...
 
 1. Head over to the project repo
 2. Clone the entire project into your smartphone
 3. Head to the Executable folder
-6. Install the "Life" app (You may have to override some system warning)
-7. Follow the intuitive UI
-8. Enjoy!
+4. Install the "Life" app (You may have to override some system warning)
+5. Follow the intuitive UI
+6. Enjoy!
 
 # Example Screenshots
 
@@ -87,4 +88,3 @@ Opening Screen
 # Project Status
 
 In Development mode
-

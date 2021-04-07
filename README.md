@@ -1,5 +1,5 @@
 ## Blood Tracking Application
-A blood donor management app with react native and firebase. This app was developed to help Asroy Bidyapith with their blood management activity in Ashuganj and nearby areas. Feel free to clone it for your own locality.
+A blood donor tracking application with react native. This app was developed to help common citizens with their blood management activities in emergency moment. Also to encourage young healthy people to dontae blood in upcoming blood donation campaigns.
 
 
 ## Features
@@ -14,7 +14,8 @@ Admin or user can update their last donation information
 React Native Expo 
 React Native Elements
 React Navigation
-Setps to clone this project
+
+Setps to run this project
 
 ## Step 1
 First of all you will need to install and configure Android SDK. Follow the Building Projects with Native Code section in this official guide.
@@ -27,8 +28,8 @@ Install the dependencies with
 - install packages `cd Idea4theworld_project && npm install`.
 - `react-native start` & `react-native run android`
 
-Now you should be able to run the project with react-native run-android
+Now you should be able to run the project with your physical device or an emulator(android) or a simulator(ios).
 
-If you need any help, feel free to let us know.
+If you face any issue, feel free to let us know.
 
-## Thank You. from Team Idea4TheWorld
+## Thank You from Team Idea4TheWorld

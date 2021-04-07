@@ -32,6 +32,7 @@ v1.1 (in prototype development)
 
 # Directory tree
 
+<pre>
 DoctorAppointment-master<br/>
     ├───.idea<br/>
     ├───app<br/>
@@ -68,6 +69,8 @@ DoctorAppointment-master<br/>
     │                           └───firebaselogin<br/>
     └───gradle<br/>
         └───wrapper<br/>
+
+</pre>
 
 # Installation
 

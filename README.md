@@ -20,10 +20,12 @@ Setps to clone this project
 First of all you will need to install and configure Android SDK. Follow the Building Projects with Native Code section in this official guide.
 
 ## Step 2
-Then clone and rename this project. Renaming can be tricky. Try using this package.
+Then clone and rename this project.
 
 ## Step 3
-Install the dependencies with yarn install.
+Install the dependencies with 
+- install packages `cd Idea4theworld_project && npm install`.
+- `react-native start` & `react-native run android`
 
 Now you should be able to run the project with react-native run-android
 

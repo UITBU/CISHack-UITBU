@@ -10,8 +10,8 @@ Admin can manually add donors or update last donation information
 Admin or user can update their last donation information
 
 ## Key technologies/packages used
-React Native Expo 
-React Native Elements
+React Native Expo, 
+React Native Elements,
 React Navigation
 
 ## Directory tree

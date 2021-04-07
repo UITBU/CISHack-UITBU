@@ -1,3 +1,3 @@
-Frontend protype developed by Amrit Dhandharia
+Frontend prototype developed by Amrit Dhandharia
 by using
 HTML and CSS

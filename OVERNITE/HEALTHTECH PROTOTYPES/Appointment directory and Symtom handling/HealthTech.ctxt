@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HealthTech
+comment1.params=id\ idt
+comment1.target=int\ searchid(int[],\ int)
+comment2.params=id\ idt
+comment2.target=int\ searchph(long[],\ long)
+comment3.params=s
+comment3.target=java.lang.String\ test_analyser(java.lang.String)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

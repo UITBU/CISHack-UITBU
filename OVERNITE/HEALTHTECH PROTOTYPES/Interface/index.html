@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthtech by Overnite</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header><h1>Healthtech by Overnite</h1></header>
+    <form action="symptoms.html" style="border:1px solid #ccc" >
+        <div class="container">
+          <h2 class="patientinfo">Patient Information</h2>
+          <p class="pleasefill">Please fill in this form to proceed.</p>
+          <hr>
+      
+          <label for="patientname"><b>Name of Patient</b></label>
+          <input type="text" placeholder="Enter Name" name="patientname" required>
+      
+          <fieldset>
+            <legend><strong>Gender</strong></legend>
+            <input type="radio" id="male" name="gender" value="male" required>
+            <label for="male">Male</label><br>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label><br>
+            <input type="radio" id="other" name="gender" value="other">
+            <label for="other">Other</label>
+          </fieldset> <br>
+         
+          <label for="dateofbirth"><strong>Date of Birth</strong></label>
+          <input type="date" placeholder="Select Date of Birth" name="dateofbirth" id="dateofbirth" required><br>
+      
+          <label for="phonenumber"><strong>Phone Number</strong></label>
+          <input type="number" placeholder="Enter your Phone Number" name="phonenumber" id="phonenumber"><br>
+
+          <label for="id"><strong>Enter id</strong> (if already have one)</label>
+          <input type="number" placeholder="Enter your id here" name="id" id="id">
+
+          <label>
+            <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+          </label>
+      
+          <p>By clicking <strong>Proceed</strong> you agree to our <a href="#" style="color:dodgerblue">Terms of Service | Privacy Policy</a>.</p>
+      
+          <div class="clearfix">
+            <button type="button" class="cancelbtn">Cancel</button>
+            <a href=""><button type="submit" class="signupbtn" a>Proceed</button></a>
+          </div>
+        </div>
+      </form> 
+</body>
+</html>

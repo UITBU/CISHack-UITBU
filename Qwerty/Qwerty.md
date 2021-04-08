@@ -38,49 +38,6 @@ For your ease, we have included the original apk of the product so that you may 
 Android 5.0 (Lolipop) and above
 
 # Directory tree
-
-<pre>
-# Life
-
-**“Life”** - Your healthcare assistant
-
-# Description
-
-**“Life”** is an Android healthcare assistant application specifically designed to help users book appointments both online and offline. With it's intelligent chat system you can resolve queries, know about doctors, their timings and get health advices
-
-# Features
-
-This app does the following:
-
-1. **Appointment booking** - You can book one-on-one appointments with your doctor over the app (online) or in your nearest clinic.
-
-2. **Doctor finder** - Find doctors of your choice in your region, their clinic timings and make bookings.
-
-
-3. **Health articles** - Stay updated on latest healthcare news and get daily advice on living healthy.
-4. **Friendly chatbot** - Chat with your chatbot friend to resolve queries, find doctors and get health tips.
-
-# Version
-
-v1.1 (in prototype development)
-
-# Installation
-
-For your ease, we have included the original apk of the product so that you may simply download it and install...
-
-1. Head over to the project repo
-2. Clone the entire project into your smartphone
-3. Head to the Executable folder
-4. Install the "Life" app (You may have to override some system warning)
-5. Follow the intuitive UI
-6. Enjoy!
-
-# Supported android versions
-
-Android 5.0 (Lolipop) and above
-
-# Directory tree
-
 <pre>
 DoctorAppointment-master</br>
 ├───.idea</br>

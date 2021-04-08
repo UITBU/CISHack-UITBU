@@ -1,0 +1,139 @@
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0px auto;
+  background-color: rgb(22, 22, 22);
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+}
+nav {
+  background-color: #111;
+  padding: 5px;
+}
+
+nav {
+  position:sticky;
+  top: 0px;
+  z-index: 3;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.uncoded {
+  width: 200px;
+  height: 80px;
+  margin-right: 33px;
+}
+
+.search-bar {
+  display: flex;
+  flex-grow: 1;
+  margin: 0 2rem 0 4rem;
+}
+
+.search-input {
+  width: 90%;
+  font-size: inherit;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.search-btn {
+  display: flex;
+  align-items: center;
+  padding: 0 1.25rem;
+  background-color: #00000032;
+  border-left: none;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  cursor: pointer;
+}
+
+.search-btn:hover {
+  background-color: #0000003d;
+}
+
+.menu-icons {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.menu-channel-icon {
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+}
+
+.upbutton {
+  margin: 5.5px;
+  background-color: rgba(0, 0, 0, 0.349);
+  padding: 10px;
+  border-radius: 6px;
+  color: #818181;
+}
+
+.upbutton:hover {
+  background-color: rgba(255, 235, 205, 0.431);
+}
+
+#upb {
+  margin-right: -15px;
+}
+
+video{
+    margin: 10px;
+    padding: 2px;
+    border: 0px;
+    width: 100%;
+}
+.join, .assign{
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #111;
+  color: rgb(223, 223, 223);
+  text-decoration: none;
+  border-radius: 6px;
+  margin: 40px;
+  position: relative;
+  top : 0px ;
+  left: 70%;
+
+  
+}
+.discription{
+  margin: 10px;
+  padding: 10px;
+  color: rgb(223, 223, 223);
+}
+hr{
+  border: 2px solid #111;
+}
+.icon{
+  height: 45px;
+  width: 45px;
+  position: relative;
+  top: 10px;
+  left: 7px;
+}
+.review{
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #111;
+  color: rgb(223, 223, 223);
+  text-decoration: none;
+  border-radius: 6px;
+  position: relative;
+  left: 70%;
+
+}

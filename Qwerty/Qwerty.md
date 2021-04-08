@@ -39,7 +39,7 @@ Android 5.0 (Lolipop) and above
 
 # Directory tree
 
-<pre>
+
 DoctorAppointment-master</br>
 ├───.idea</br>
 │   └───codeStyles</br>
@@ -79,31 +79,31 @@ DoctorAppointment-master</br>
 ├───gradle</br>
 │   └───wrapper</br>
 └───Screenshots</br>
-</pre>
+
 
 
 # Example Screenshots
 
-Booking Screen
+**### Booking Screen**
 ![Booking screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Booking%20screen.jpeg)
 
-Hamburger screen
+**### Hamburger screen**
 
 ![Hamburger screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Hamburger%20screen.jpeg)
 
-Main screen
+**### Main screen**
 
 ![Main screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Main%20screen.jpeg)
 
-Share screen
+**### Share screen**
 
 ![Share screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Share%20screen.jpeg)
 
-Sign in screen
+**### Sign in screen**
 
 ![Sign in screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Sign%20in%20screen.jpeg)
 
-Sign up screen
+**### Sign up screen**
 
 ![Sign up screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Signuo.jpeg)
 

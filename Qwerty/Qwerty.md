@@ -33,6 +33,10 @@ For your ease, we have included the original apk of the product so that you may 
 5. Follow the intuitive UI
 6. Enjoy!
 
+# Supported android versions
+
+Android 5.0 (Lolipop) and above
+
 # Directory tree
 
 <pre>
@@ -72,6 +76,7 @@ DoctorAppointment-master<br/>
     │                           └───firebaselogin<br/>
     └───gradle<br/>
         └───wrapper<br/>
+
 
 </pre>
 

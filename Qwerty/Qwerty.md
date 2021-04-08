@@ -38,6 +38,7 @@ For your ease, we have included the original apk of the product so that you may 
 Android 5.0 (Lolipop) and above
 
 # Directory tree
+
 <pre>
 DoctorAppointment-master</br>
 ├───.idea</br>
@@ -80,29 +81,21 @@ DoctorAppointment-master</br>
 └───Screenshots</br>
 </pre>
 
-# Example Screenshots
-
-Opening Screen
-![Opening screen]()
-
-# Project Status
-
-In Development mode
-
-# Future Scope
-
-Some features which we have though of implementing in the near future...
-
-1. **Health record** - to keep every persons health record stored in an encrypted form so that information is transferred between patients and doctors.
-2. **Patient’s lounge** - here you will be able to meet patients like you, chat with them and share your problems.
-3. **Pill reminder** - so that you may never miss a pill.
-
-</pre>
 
 # Example Screenshots
 
 Opening Screen
-![Opening screen]()
+![Booking screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Booking%20screen.jpeg)
+
+![Hamburger screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Hamburger%20screen.jpeg)
+
+![Main screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Main%20screen.jpeg)
+
+![Share screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Share%20screen.jpeg)
+
+![Sign in screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Sign%20in%20screen.jpeg)
+
+![Sign up screen](https://github.com/Nawaz2000/CISHack-UITBU/blob/main/Qwerty/DoctorAppointment-master/Screenshots/Signuo.jpeg)
 
 # Project Status
 
